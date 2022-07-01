@@ -1,6 +1,6 @@
 # ML
 
-mnist_kera_mlp: Use MLP to do predictions of cats and dogs.
+mnist_kera_mlp: Use MLP to do predictions of written numbers.
 
 CNN: Use cats and dog's picture to train model. Before MLP, do CNN to extract the feature of pictures.
 
