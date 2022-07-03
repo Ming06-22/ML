@@ -7,3 +7,7 @@ CNN: Use cats and dog's picture to train model. Before MLP, do CNN to extract th
 RNN: use USD and NT exchange to do predictinos. Use every seven days to predict the eighth day's result to train the model.
 
 cifar10_CNN: use dowload data to train CNN
+
+jieba: display the use of jieba and wordcloud module
+
+stock_RNN: use RNN to do prediction on stock
